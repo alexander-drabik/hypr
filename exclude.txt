@@ -1,0 +1,6 @@
+/home/alex/Documents/BlackmagicDesign/
+/home/alex/Documents/keycopy.keystore
+/home/alex/Documents/Android/
+/home/alex/Videos/Resolve Project Backups/
+/home/alex/Videos/CacheClip/
+/home/alex/Documents/channel/
